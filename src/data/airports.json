@@ -1,0 +1,7 @@
+[
+    { "iata": "DEL", "name": "Indira Gandhi International Airport", "city": "Delhi", "country": "India" },
+    { "iata": "BOM", "name": "Chhatrapati Shivaji Maharaj International Airport", "city": "Mumbai", "country": "India" },
+    { "iata": "BLR", "name": "Kempegowda International Airport", "city": "Bangalore", "country": "India" },
+    { "iata": "DXB", "name": "Dubai International Airport", "city": "Dubai", "country": "UAE" }
+  ]
+  
